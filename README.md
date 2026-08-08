@@ -40,7 +40,6 @@ I am a senior Computer Science student at UMass Amherst and a Software Engineeri
 * **Campus Technical Assistantships:** Worked as a Technical Assistant in the UMass library(Freshman year) and Management School(Sophomore year), helped my campus to stay up-to-date with the technologies.
 
 ### 📊 GitHub Stats
-<!-- These cards will automatically pull your live GitHub data. Make sure to replace "hyuzukirmizi" with your exact GitHub username if it is different! -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hyuzukirmizi&show_icons=true&theme=tokyonight" alt="Haluk's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuzukirmizi&layout=compact&theme=tokyonight" alt="Top Languages" />
