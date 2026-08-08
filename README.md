@@ -12,12 +12,12 @@ I am a senior Computer Science student at UMass Amherst and a Software Engineeri
 
 ### 🚀 Key Projects
 
-📌 **MeetMind (IBM ATX 2026 Bobathon Honorable Mentions)**
+📌 **MeetMind (IBM ATX 2026 Bobathon Honorable Mention)**
 * **What it is:** An end to end agentic AI and quantum task scheduling platform for enterprise workload balancing.
 * **Tech Used:** WatsonX Orchestrate, Qiskit, PostgreSQL, Whisper.
 * **Impact:** Deployed 3 specialized AI agents and a Qiskit quantum solver to overcome NP hard task distribution, engineering fault tolerant heuristics to ensure 100% pipeline reliability and projecting 100+ hours of savings annually per employee.
 
-**State of Massachusetts HPC AI Assistant**
+**State of Massachusetts HPC AI Assistant (AI Engineer Intern Project)**
 * **What it is:** A fully serverless multi modal RAG AI assistant deployed on the AWS cloud.
 * **Tech Used:** AWS (Bedrock, Lambda, S3), LangChain, Python.
 * **Impact:** Engineered data ingestion pipelines with contextual chunking and document level metadata filtering. Provided 24/7 technical support for 2,000+ researchers, cutting compute costs by 12.3x while maintaining 95% model accuracy. 
@@ -38,12 +38,6 @@ I am a senior Computer Science student at UMass Amherst and a Software Engineeri
 * **AI 2027@MIT Initiative:** Volunteered on the architecture team developing content and documentation to explain under the hood of the AI models to non-tech people.
 * **UMass Blockchain Club:** Active member exploring Web3 architecture and currently building a C++ blockchain project for autonomous drone swarm coordination.
 * **Campus Technical Assistantships:** Worked as a Technical Assistant in the UMass library(Freshman year) and Management School(Sophomore year), helped my campus to stay up-to-date with the technologies.
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyuzukirmizi&show_icons=true&theme=tokyonight" alt="Haluk's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyuzukirmizi&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ### 📫 Let's Connect!
 * **LinkedIn:** [linkedin.com/in/hyuzukirmizi](https://linkedin.com/in/hyuzukirmizi)
