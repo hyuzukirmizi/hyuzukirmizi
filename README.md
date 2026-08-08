@@ -1,4 +1,4 @@
-# Hi there, I'm Haluk Yuzukirmizi 👋
+# Welcome, I'm Haluk Yuzukirmizi 👋
 
 **Software Engineer | AI Researcher | Cloud Architect**
 
