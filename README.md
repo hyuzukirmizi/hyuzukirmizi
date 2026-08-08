@@ -56,8 +56,6 @@ I am a senior Computer Science student at UMass Amherst and a Software Engineeri
 
 </details>
 
-</details>
-
 <details>
   <summary><h2>📫 Let's Connect!</h2></summary>
 
@@ -68,7 +66,7 @@ I am a senior Computer Science student at UMass Amherst and a Software Engineeri
 </details>
 
 <details>
-  <summary><h2>⚡ Congrats, you have made it to the Fun Fact section!</h2></summary>
+  <summary><h2>⚡ Fun Fact section!</h2></summary>
 
 * **I built an idea just to get better food:** UMass Amherst has the #1 ranked campus dining in the nation. I got so tired of eating unhealthy fast food when I was too busy studying to walk to the dining halls, my friend and I built and shipped a full delivery app (DoorSmash) in a 36 hour hackathon just to fix it!
 * **I love travelling:** I have been to lots of major cities in the world by myself, including New York, Paris, Prague, Istanbul, Budapest, Vienna, Amsterdam, Frankfurt, Chicago, Washington DC and many more...
