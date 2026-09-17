@@ -2,7 +2,7 @@
 
 **Software Engineer | AI Researcher | Cloud Architect**
 
-I am a senior Computer Science student at UMass Amherst and a Software Engineering Intern at IBM. I am deeply passionate about the intersection of advanced AI/ML research and real world practical applications. I love taking complex, experimental technologies (like multi agent orchestration and quantum walk neural networks) and building the secure, fault tolerant cloud infrastructure needed to deploy them at scale. When I am not building backend distributed systems, I am usually reading AI research papers.
+I am a senior Computer Science student at UMass Amherst and a previous Software Engineering Intern at IBM. I am deeply passionate about the intersection of advanced AI/ML research and real world practical applications. I love taking complex, experimental technologies (like multi agent orchestration and quantum walk neural networks) and building the secure, fault tolerant cloud infrastructure needed to deploy them at scale. When I am not building backend distributed systems, I am usually reading AI research papers.
 
 ---
 
